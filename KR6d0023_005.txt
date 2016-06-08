@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:10.447237
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:06
 #+TITLE: 法華玄論
 #+PROPERTY: CBETA_ID T34n1720
 #+PROPERTY: ID KR6d0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1720
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0023_T_005-0396c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 法華玄論卷第五¶
+法華玄論卷第五¶
 ¶
 胡吉藏撰¶
 

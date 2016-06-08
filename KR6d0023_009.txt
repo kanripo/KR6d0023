@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:10.607205
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:06
 #+TITLE: 法華玄論
 #+PROPERTY: CBETA_ID T34n1720
 #+PROPERTY: ID KR6d0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1720
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0023_T_009-0433b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 法華玄論卷第九¶
+法華玄論卷第九¶
 ¶
 胡吉藏撰¶
 
-寶塔品密開本迹義
-:PROPERTIES:
-:head: 寶塔品密開本迹義
-:END:
-¶
+* 寶塔品密開本迹義¶
 
 河西道朗云。上來開三顯一明法華體竟。從¶
 此去辨果門。謂法身常住理非存沒。注解云¶

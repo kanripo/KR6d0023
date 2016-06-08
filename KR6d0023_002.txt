@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:10.320154
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:06
 #+TITLE: 法華玄論
 #+PROPERTY: CBETA_ID T34n1720
 #+PROPERTY: ID KR6d0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1720
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0023_T_002-0371c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 法華玄論卷第二¶
+法華玄論卷第二¶
 ¶
 胡吉藏撰¶
 
@@ -1150,7 +1149,7 @@
 法實相不可言宣。四不同也。與光宅四異將¶
 慧觀。三同既其共稟什公。一車無二轍矣。¶
 
-十三劉虯集注採安林壹遠什肇融恒八師之¶
+十三劉蚪集注採安林壹遠什肇融恒八師之¶
 說。其序大意云。教凝於三一之表果玄於¶
 丈六之外。無名無相者此經之旨歸。自非¶
 道越三空智通十地者孰能辨。名於無名厝¶

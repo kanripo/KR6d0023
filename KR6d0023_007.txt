@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:10.534549
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:06
 #+TITLE: 法華玄論
 #+PROPERTY: CBETA_ID T34n1720
 #+PROPERTY: ID KR6d0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1720
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0023_T_007-0415c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 法華玄論卷第七¶
+法華玄論卷第七¶
 ¶
 胡吉藏撰¶
 
-信解品譬喻義
-:PROPERTIES:
-:head: 信解品譬喻義
-:END:
-¶
+* 信解品譬喻義¶
 
 光宅師為九譬。一者父子相失。二者父子相¶
 見。三者喚子不得。四者喚子得。五者教作¶
