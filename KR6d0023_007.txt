@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:10.534549
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:06
 #+TITLE: 法華玄論
 #+PROPERTY: CBETA_ID T34n1720
 #+PROPERTY: ID KR6d0023
@@ -16,7 +16,8 @@
 ¶
 胡吉藏撰¶
 
-信解品譬喻義
+* 信解品譬喻義
+** 1
 :PROPERTIES:
 :head: 信解品譬喻義
 :END:
